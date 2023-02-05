@@ -1,0 +1,912 @@
+.header{
+    position: absolute;
+width: 1440px;
+height: 150px;
+left: 0px;
+top: 1px;
+
+
+box-shadow: -2px 28px 250px -10px rgba(171, 171, 171, 0.25);
+background-image: url("cartoon-bread-pattern-seamless-print-with-wheat-bread-pretzel-loaf-croissant-donut-pancakes-cinnamon-roll-french-baguette-vector-texture_440128-192.png");
+background: linear-gradient(180deg, #D9FD9E 43.33%, rgba(223, 255, 171, 0) 119.33%);
+}
+.logo{
+    position: absolute;
+width: 192px;
+height: 150px;
+left: 0px;
+top: 0px;
+
+filter: drop-shadow(8px 2px 17px rgba(0, 0, 0, 0.25));
+}
+.trt{
+    position: absolute;
+width: 85px;
+height: 85px;
+left: 170px;
+top: 60px;
+
+}
+.hleb{
+    position: absolute;
+width: 172px;
+height: 61px;
+left: 1216px;
+top: 84px;
+
+}
+.home{
+    position: absolute;
+width: 56px;
+height: 29px;
+left: 302px;
+top: 8px;
+
+font-family: 'Itim';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.aboutus{
+    position: absolute;
+width: 89px;
+height: 29px;
+left: 508px;
+top: 8px;
+
+font-family: 'Itim';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.services{
+    position: absolute;
+width: 82px;
+height: 29px;
+left: 760px;
+top: 8px;
+
+font-family: 'Itim';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.contacts{
+    position: absolute;
+width: 89px;
+height: 29px;
+left: 979px;
+top: 8px;
+
+font-family: 'Itim';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.bake{
+    position: absolute;
+width: 194px;
+height: 27px;
+left: 620px;
+top: 20px;
+margin: 0px;
+
+font-family: 'Meie Script';
+font-style: normal;
+font-weight: 400;
+font-size: 90px;
+line-height: 122px;
+
+color: #000000;
+
+}
+.luppa{
+    position: absolute;
+width: 30.6px;
+height: 30.02px;
+left: 1324.44px;
+top: 20px;
+
+transform: rotate(6deg);
+
+}
+.pipl{
+    position: absolute;
+width: 84px;
+height: 83px;
+left: 1356px;
+top: 4px;
+
+border-radius: 256px;
+
+}
+.rectangle26{
+    position: absolute;
+width: 1440px;
+height: 445px;
+left: 0px;
+top: 148px;
+
+background: #FFFFFF;
+}
+.pnp{
+    position: absolute;
+width: 870px;
+height: 72px;
+left: 248px;
+top: 10px;
+margin: 0px;
+
+font-family: 'Kanit';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 72px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.elka{
+    position: absolute;
+width: 194px;
+height: 201px;
+left: 50px;
+top: 150px;
+
+background: url(forma-dlja-prjanikov-pod-rospis-elochka-01.png);
+}
+.snka{
+    position: absolute;
+width: 228px;
+height: 249px;
+left: 370px;
+top: 130px;
+
+background: url(depositphotos_176703150-stock-photo-gingerbread-snowflake-cookie-isolated-on.png);
+}
+.klk{
+    position: absolute;
+width: 193px;
+height: 253px;
+left: 733px;
+top: 130px;
+
+background: url(1656828458_2-flomaster-club-p-novogodnii-pryanik-risunok-krasivo-2.png);
+}
+.elcaty{
+    position: absolute;
+width: 301px;
+height: 274px;
+left: 1085px;
+top: 130px;
+
+background: url(new-years-gingerbread-in-the-shape-of-christmas-tree-on-a-white-background-3d-rendering_476612-19628.png);
+}
+.pybli{
+    position: absolute;
+width: 84px;
+height: 34px;
+left: 105px;
+top: 350px;
+
+font-family: 'Inconsolata';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 34px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.pyb{
+    position: absolute;
+width: 84px;
+height: 34px;
+left: 450px;
+top: 350px;
+
+font-family: 'Inconsolata';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 34px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.ryb{
+    position: absolute;
+width: 84px;
+height: 34px;
+left: 788px;
+top: 350px;
+
+font-family: 'Inconsolata';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 34px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.rub{
+    position: absolute;
+width: 84px;
+height: 34px;
+left: 1194px;
+top: 350px;
+
+font-family: 'Inconsolata';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 34px;
+/* identical to box height */
+
+
+color: #000000;
+}
+.frame4{
+    position: absolute;
+width: 1440px;
+height: 427px;
+left: 0px;
+top: 593px;
+
+background: #F0FFEE;
+}
+.xlbi{
+    position: absolute;
+width: 433px;
+height: 54px;
+left: 465px;
+top: 0px;
+
+font-family: 'Kanit';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 54px;
+/* identical to box height */
+
+
+color: #000000;
+
+
+}
+.lll{
+    position: absolute;
+width: 1400px;
+height: 44px;
+left: 21px;
+top: 100px;
+
+background: #D9D9D9;
+}
+.llll{
+    position: absolute;
+    width: 238.47px;
+    height: 44px;
+    left: 21px;
+    top: 100px;
+    
+    background: #EDD1B7;
+}
+.xl{
+    position: absolute;
+width: 73px;
+height: 48px;
+left: 87px;
+top: 65px;
+
+font-family: 'Kanit';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 48px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.vpa{
+    position: absolute;
+width: 102px;
+height: 36px;
+left: 358px;
+top: 80px;
+
+font-family: 'Kanit';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+
+
+color: #000000;
+}
+.ki{
+    position: absolute;
+width: 268px;
+height: 36px;
+left: 727px;
+top: 80px;
+
+font-family: 'Kanit';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.tt{
+    position: absolute;
+width: 71px;
+height: 36px;
+left: 1229px;
+top: 80px;
+
+font-family: 'Kanit';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+ .chleb{
+    position: absolute;
+width: 431px;
+height: 270px;
+left: 105px;
+top: 170px;
+
+background: url(chleb_23_en_.jpg);
+ }
+.baget{
+    position: absolute;
+width: 460px;
+height: 270px;
+left: 840px;
+top: 170px;
+
+background: url(Bagety.jpg);
+}
+.ppp{
+    position: absolute;
+width: 1447px;
+height: 486px;
+left: -9px;
+top: 1020px;
+
+background: #FFFFFF;
+
+}
+.pppp{
+    position: absolute;
+width: 258px;
+height: 46px;
+left: 572px;
+top: 1033px;
+
+}
+.clvl{
+    position: absolute;
+width: 258px;
+height: 46px;
+left: 565px;
+top: 1028px;
+
+}
+.blk{
+    position: absolute;
+width: 390px;
+height: 298px;
+left: 21px;
+top: 1050px;
+
+background: url(images.jpg);
+
+}
+.pp{
+    position: absolute;
+width: 316px;
+height: 316px;
+left: 534px;
+top: 1100px;
+
+background: url(f377d155xd33d70a99971a1485ab.png);
+
+}
+.ke{
+    position: absolute;
+width: 348px;
+height: 240.88px;
+left: 1055px;
+top: 1050px;
+
+background: url(MТ_83390.jpg);
+}
+.sl{
+    position: absolute;
+width: 64px;
+height: 51px;
+left: 160px;
+top: 1300px;
+
+}
+.ns{
+    position: absolute;
+width: 64px;
+height: 51px;
+left: 692px;
+top: 1300px;
+
+}
+.tk{
+    position: absolute;
+width: 64px;
+height: 51px;
+left: 1220px;
+top: 1300px;
+}
+.kn{
+    position: absolute;
+width: 88px;
+height: 32px;
+left: 160px;
+top: 1320px;
+
+font-family: 'Kalam';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 32px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.xc{
+    position: absolute;
+width: 131px;
+height: 32px;
+left: 662px;
+top: 1320px;
+
+font-family: 'Kalam';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 32px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.mc{
+    position: absolute;
+width: 223px;
+height: 61px;
+left: 1155px;
+top: 1310px;
+
+font-family: 'Kalam';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 32px;
+
+color: #000000;
+
+}
+.ca{
+    position: absolute;
+width: 100px;
+height: 51px;
+left: 150px;
+top: 1340px;
+
+font-family: 'Kalam';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 51px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.rtr{
+    position: absolute;
+width: 100px;
+height: 51px;
+left: 692px;
+top: 1340px;
+
+font-family: 'Kalam';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 51px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.hn{
+    
+position: absolute;
+width: 90px;
+height: 51px;
+left: 1220px;
+top: 1351px;
+
+font-family: 'Kalam';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 51px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.kp{
+    position: absolute;
+width: 142px;
+height: 38px;
+left: 16px;
+top: 1459px;
+
+}
+.pe{
+    position: absolute;
+width: 142px;
+height: 38px;
+left: 220px;
+top: 1459px;
+
+}
+.kt{
+    position: absolute;
+width: 142px;
+height: 38px;
+left: 552px;
+top: 1462px;
+
+}
+.nn{
+    position: absolute;
+width: 142px;
+height: 38px;
+left: 747px;
+top: 1462px;
+
+}
+.vv{
+    position: absolute;
+width: 142px;
+height: 38px;
+left: 1070px;
+top: 1459px;
+
+}
+.ii{
+    position: absolute;
+width: 142px;
+height: 38px;
+left: 1260px;
+top: 1462px;
+
+}
+.frame6{
+    position: absolute;
+width: 1440px;
+height: 1100px;
+left: 0px;
+top: 1506px;
+
+background: url("istockphoto-867405966-170667a\ 1.png");
+}
+.zz{
+    position: absolute;
+width: 232px;
+height: 220px;
+left: 191px;
+top: 200px;
+
+}
+.bb{
+    position: absolute;
+width: 230px;
+height: 220px;
+left: 1023px;
+top: 200px;
+
+}
+.mm{
+    position: absolute;
+width: 216.16px;
+height: 220px;
+left: 217px;
+top: 650px;
+
+
+}
+.gg{
+    position: absolute;
+width: 197px;
+height: 198px;
+left: 1042px;
+top: 650px;
+
+
+}
+.pvn{
+    position: absolute;
+width: 832px;
+height: 55px;
+left: 400px;
+top: 0px;
+
+font-family: 'IM FELL French Canon';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 56px;
+
+color: #000000;
+
+}
+.mnogo{
+    position: absolute;
+width: 153px;
+height: 114px;
+left: 250px;
+top: 80px;
+
+font-family: 'IM FELL French Canon';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 56px;
+
+color: #000000;
+}
+.bst{
+    position: absolute;
+width: 172px;
+height: 56px;
+left: 1000px;
+top: 80px;
+
+font-family: 'IM FELL French Canon';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 56px;
+
+color: #000000;
+
+}
+.ndl{
+    position: absolute;
+width: 228px;
+height: 56px;
+left: 250px;
+top: 540px;
+
+font-family: 'IM FELL French Canon';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 56px;
+
+color: #000000;
+
+}
+.cc{
+    position: absolute;
+width: 347px;
+height: 56px;
+left: 1000px;
+top: 540px;
+
+font-family: 'IM FELL French Canon';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 56px;
+
+color: #000000;
+
+}
+.lil{
+    position: absolute;
+width: 479px;
+height: 112px;
+left: 68px;
+top: 350px;
+
+font-family: 'IM FELL French Canon';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 56px;
+
+color: #000000;
+
+}
+.gbno{
+    
+position: absolute;
+width: 588px;
+height: 112px;
+left: 835px;
+top: 350px;
+
+font-family: 'IM FELL French Canon';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 56px;
+
+color: #000000;
+}
+.dc{
+    position: absolute;
+width: 573px;
+height: 112px;
+left: 50px;
+top: 800px;
+
+font-family: 'IM FELL French Canon';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 56px;
+
+color: #000000
+}
+.pd{
+    position: absolute;
+width: 683px;
+height: 52px;
+left: 746px;
+top: 800px;
+
+font-family: 'Lao Muang Don';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 60px;
+
+color: #000000;
+
+}
+
+.vnv{
+    position: absolute;
+width: 1443px;
+height: 444px;
+left: -3px;
+top: 2551px;
+
+}
+.ntnt{
+    position: absolute;
+width: 1443px;
+height: 560px;
+left: 0px;
+top: 3012px;
+
+background: url(map_place_850.jpg);
+}
+.logo:hover{
+    width: 220px;
+}
+
+.bake:hover{
+    color: #ffffff;
+    font-style: unset;
+}
+.home:hover{
+    color: #D9D9D9;
+    font-style: oblique;
+}
+.aboutus:hover{
+    color: #D9D9D9;
+    font-style:oblique;
+}
+.services:hover{
+    color: #D9D9D9;
+    font-style: oblique;
+}
+.contacts:hover{
+    color: #D9D9D9;
+    font-style: oblique;
+}
+
+.iei{
+    position: absolute;
+width: 1450px;
+height: 365px;
+left: 0px;
+top: 3560px;
+}
+.ca:hover{
+    color:grey;
+    font-style:calc(1);
+}
+.rtr:hover{
+    color: gray;
+    font-style: normal;
+}
+.hn:hover{
+    color: grey;
+    font-style: normal;
+}
+.pybli:hover{
+    color: #EDD1B7;
+    font-style: normal;
+}
+.pyb:hover{
+    color: #EDD1B7;
+    font-style: normal;
+}
+.ryb:hover{
+    color: #EDD1B7;
+    font-style: normal;
+}
+.rub:hover{
+    color: #EDD1B7;
+    font-style: normal;
+}
